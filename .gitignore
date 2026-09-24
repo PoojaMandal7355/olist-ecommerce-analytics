@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Raw dataset files
+data/raw/
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
